@@ -143,7 +143,7 @@ src/
 
 ## ⏱️ Time Taken
 
-**Total Development Time: 6+ hours**
+**Total Development Time: 7+ hours**
 
 ## 🚀 Running the Application
 
