@@ -78,7 +78,7 @@ src/
 │   ├── modules/
 │   │   ├── Auth/          # Authentication module
 │   │   ├── Task/          # Task management module
-│   │   ├── Event/         # Event management module
+│   │  
 │   │   └── Registration/  # User registration module
 │   ├── middleware/        # Custom middleware
 │   └── utils/            # Utility functions
@@ -143,36 +143,7 @@ src/
 
 ## ⏱️ Time Taken
 
-**Total Development Time: 8-10 hours**
-
-### Breakdown:
-- **Project Setup & Configuration**: 1 hour
-  - TypeScript configuration
-  - ESLint setup
-  - Package.json configuration
-
-- **Core Architecture**: 2 hours
-  - Module structure design
-  - Middleware implementation
-  - Error handling setup
-
-- **Authentication Module**: 2 hours
-  - JWT implementation
-  - Login functionality
-  - Password hashing with bcrypt
-
-- **Task Management Module**: 2 hours
-  - CRUD operations
-  - Validation schemas
-  - Service layer implementation
-
-- **Event & Registration Modules**: 1 hour
-  - Basic structure and endpoints
-
-- **Testing & Debugging**: 1-2 hours
-  - API testing
-  - Error handling verification
-  - Performance optimization
+**Total Development Time: 6+ hours**
 
 ## 🚀 Running the Application
 
